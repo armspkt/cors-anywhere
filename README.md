@@ -37,3 +37,6 @@ Request examples:
 * `http://localhost:8080/google.com:443` - Proxies `https://google.com/`
 * `http://localhost:8080/` - Shows usage text, as defined in `libs/help.txt`
 * `http://localhost:8080/favicon.ico` - Replies 404 Not found
+
+
+Credit: https://github.com/Rob--W/cors-anywhere
